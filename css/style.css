@@ -221,7 +221,7 @@ body {
   color: var(--w);
   padding: 1rem 3rem;
   font-size: 1.4rem;
-  background-color: #ffc100;
+  background-color: var(--main-l);
   border-radius: 8px;
 }
 /* About Section */
